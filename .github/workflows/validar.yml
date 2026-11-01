@@ -1,0 +1,16 @@
+# Valida o arquivo publicado a cada envio (somente leitura; sem segredos). Modelo R3.21-F1.
+name: Validar diretorio.json (oficial)
+on:
+  push:
+  pull_request:
+permissions:
+  contents: read
+jobs:
+  validar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
+      - name: Contrato diretorio.v1 (modo oficial; sem contatos fictícios)
+        run: |
+          if [ ! -f diretorio.json ]; then echo "Ainda sem diretorio.json (repositório recém-criado)."; exit 0; fi
+          python3 validar-diretorio.py diretorio.json --oficial --minimo 26
