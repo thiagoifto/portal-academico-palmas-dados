@@ -1,0 +1,856 @@
+{
+ "versao": "diretorio.v1",
+ "gerado_em": "2026-11-01T15:33:58.675Z",
+ "origem": "Planilha oficial de contatos — GEAE Campus Palmas",
+ "aviso": "Contatos reunidos a partir de fontes institucionais publicadas. Podem sofrer alterações.",
+ "categorias": {
+  "ATENDIMENTO": "Atendimento e secretaria",
+  "COORDENACAO_CURSO": "Coordenações de curso",
+  "APOIO_ESTUDANTE": "Apoio ao estudante",
+  "ENSINO": "Ensino e estágio",
+  "PESQUISA_EXTENSAO": "Pesquisa e extensão",
+  "GESTAO_CAMPUS": "Direção e administração"
+ },
+ "contatos": [
+  {
+   "id": "gerencia-apoio-ensino",
+   "nome": "Gerência de Apoio ao Ensino",
+   "tipo": "SETOR",
+   "categoria": "ENSINO",
+   "sigla": "GEAE",
+   "email": "geae.palmas@ifto.edu.br",
+   "localizacao": "Bloco Administrativo 2",
+   "fonte_url": "https://www.ifto.edu.br/palmas/campus-palmas/ensino"
+  },
+  {
+   "id": "coordenacao-atendimento-integrado",
+   "nome": "Coordenação de Atendimento Integrado",
+   "tipo": "SETOR",
+   "categoria": "ATENDIMENTO",
+   "sigla": "CAI",
+   "whatsapp": {
+    "numero": "(63) 3236-4013",
+    "url": "https://wa.me/556332364013"
+   },
+   "fonte_texto": "Canal divulgado pelo Portal Acadêmico",
+   "assuntos": [
+    "atendimento",
+    "protocolo",
+    "requerimento",
+    "orientação"
+   ]
+  },
+  {
+   "id": "secretaria-academica",
+   "nome": "Secretaria Acadêmica",
+   "tipo": "SETOR",
+   "categoria": "ATENDIMENTO",
+   "sigla": "SEAC",
+   "email": "seac.palmas@ifto.edu.br",
+   "telefones": [
+    {
+     "numero": "(63) 3236-4070",
+     "tel": "+556332364070"
+    },
+    {
+     "numero": "(63) 3236-4026",
+     "tel": "+556332364026"
+    }
+   ],
+   "localizacao": "Bloco Administrativo 1",
+   "fonte_url": "https://www.ifto.edu.br/palmas/campus-palmas/ensino",
+   "assuntos": [
+    "registro acadêmico",
+    "documentos acadêmicos"
+   ]
+  },
+  {
+   "id": "coordenacao-estagio",
+   "nome": "Coordenação de Estágio",
+   "tipo": "SETOR",
+   "categoria": "ENSINO",
+   "email": "estagio.palmas@ifto.edu.br",
+   "telefones": [
+    {
+     "numero": "(63) 3236-4053",
+     "tel": "+556332364053"
+    }
+   ],
+   "localizacao": "Bloco Administrativo 1",
+   "fonte_url": "https://ifto.edu.br/palmas/campus-palmas/pesquisa"
+  },
+  {
+   "id": "diretoria-ensino",
+   "nome": "Diretoria de Ensino",
+   "tipo": "SETOR",
+   "categoria": "ENSINO",
+   "sigla": "DIREN",
+   "telefones": [
+    {
+     "numero": "(63) 3236-4003",
+     "tel": "+556332364003"
+    }
+   ],
+   "localizacao": "Bloco 15",
+   "fonte_url": "https://www.ifto.edu.br/palmas/campus-palmas/ensino"
+  },
+  {
+   "id": "secretaria-diretoria-ensino",
+   "nome": "Secretaria da Diretoria de Ensino",
+   "tipo": "SETOR",
+   "categoria": "ENSINO",
+   "sigla": "SEDIREN",
+   "email": "sediren.palmas@ifto.edu.br",
+   "telefones": [
+    {
+     "numero": "(63) 3236-4035",
+     "tel": "+556332364035"
+    }
+   ],
+   "localizacao": "Bloco Administrativo 15",
+   "fonte_url": "https://www.ifto.edu.br/palmas/campus-palmas/ensino"
+  },
+  {
+   "id": "gerencia-ensino-superior",
+   "nome": "Gerência de Ensino Superior",
+   "tipo": "SETOR",
+   "categoria": "ENSINO",
+   "sigla": "GES",
+   "email": "ges.palmas@ifto.edu.br",
+   "localizacao": "Bloco Administrativo 15",
+   "fonte_url": "https://www.ifto.edu.br/palmas/campus-palmas/ensino"
+  },
+  {
+   "id": "coordenacao-apoio-ensino-superior",
+   "nome": "Coordenação de Apoio ao Ensino Superior",
+   "tipo": "SETOR",
+   "categoria": "ENSINO",
+   "sigla": "CAESU",
+   "email": "caesu.palmas@ifto.edu.br",
+   "telefones": [
+    {
+     "numero": "(63) 3236-4035",
+     "tel": "+556332364035"
+    }
+   ],
+   "localizacao": "Bloco Administrativo 15",
+   "fonte_url": "https://www.ifto.edu.br/palmas/campus-palmas/ensino"
+  },
+  {
+   "id": "gerencia-ensino-basico-tecnico",
+   "nome": "Gerência de Ensino Básico e Técnico",
+   "tipo": "SETOR",
+   "categoria": "ENSINO",
+   "sigla": "GEBT",
+   "email": "gebt.palmas@ifto.edu.br",
+   "telefones": [
+    {
+     "numero": "(63) 3236-4031",
+     "tel": "+556332364031"
+    }
+   ],
+   "localizacao": "Bloco 15",
+   "fonte_url": "https://www.ifto.edu.br/palmas/campus-palmas/ensino"
+  },
+  {
+   "id": "coordenacao-ensino-distancia",
+   "nome": "Coordenação de Ensino a Distância",
+   "tipo": "SETOR",
+   "categoria": "ENSINO",
+   "sigla": "CEAD",
+   "email": "cead.palmas@ifto.edu.br",
+   "telefones": [
+    {
+     "numero": "(63) 3236-4073",
+     "tel": "+556332364073"
+    }
+   ],
+   "localizacao": "Bloco Administrativo 2",
+   "fonte_url": "https://www.ifto.edu.br/palmas/campus-palmas/ensino"
+  },
+  {
+   "id": "coordenacao-tecnico-pedagogica",
+   "nome": "Coordenação Técnico-Pedagógica",
+   "tipo": "SETOR",
+   "categoria": "APOIO_ESTUDANTE",
+   "sigla": "COTEPE",
+   "email": "cotepe@ifto.edu.br",
+   "telefones": [
+    {
+     "numero": "(63) 3236-4042",
+     "tel": "+556332364042"
+    }
+   ],
+   "localizacao": "Bloco 15",
+   "fonte_url": "https://www.ifto.edu.br/palmas/campus-palmas/ensino"
+  },
+  {
+   "id": "direcao-geral",
+   "nome": "Direção-Geral",
+   "tipo": "SETOR",
+   "categoria": "GESTAO_CAMPUS",
+   "sigla": "DG",
+   "email": "palmas@ifto.edu.br",
+   "telefones": [
+    {
+     "numero": "(63) 3236-4068",
+     "tel": "+556332364068"
+    }
+   ],
+   "localizacao": "Bloco Administrativo 1",
+   "fonte_url": "https://www.ifto.edu.br/palmas/acesso-a-informacao-palmas/institucional/quem-e-quem"
+  },
+  {
+   "id": "chefia-gabinete",
+   "nome": "Chefia de Gabinete",
+   "tipo": "SETOR",
+   "categoria": "GESTAO_CAMPUS",
+   "sigla": "CGAB",
+   "email": "palmas@ifto.edu.br",
+   "telefones": [
+    {
+     "numero": "(63) 3236-4005",
+     "tel": "+556332364005"
+    }
+   ],
+   "localizacao": "Bloco Administrativo 1",
+   "fonte_url": "https://www.ifto.edu.br/palmas/acesso-a-informacao-palmas/institucional/quem-e-quem"
+  },
+  {
+   "id": "coordenacao-comunicacao-eventos",
+   "nome": "Coordenação de Comunicação e Eventos",
+   "tipo": "SETOR",
+   "categoria": "GESTAO_CAMPUS",
+   "sigla": "CCE",
+   "email": "cce.palmas@ifto.edu.br",
+   "telefones": [
+    {
+     "numero": "(63) 3236-4052",
+     "tel": "+556332364052"
+    }
+   ],
+   "localizacao": "Bloco Administrativo 1",
+   "fonte_url": "https://www.ifto.edu.br/palmas/acesso-a-informacao-palmas/institucional/quem-e-quem"
+  },
+  {
+   "id": "atendimento-geral-campus",
+   "nome": "Atendimento geral do Campus Palmas",
+   "tipo": "CANAL",
+   "categoria": "ATENDIMENTO",
+   "email": "palmas@ifto.edu.br",
+   "telefones": [
+    {
+     "numero": "(63) 3236-4000",
+     "tel": "+556332364000"
+    }
+   ],
+   "localizacao": "AE 310 Sul, Avenida LO 05, s/n, Plano Diretor Sul",
+   "horario": {
+    "rotulo": "Funcionamento do campus",
+    "texto": "Dias úteis, 7h30 às 23h"
+   },
+   "fonte_url": "https://portal.ifto.edu.br/palmas/acesso-a-informacao-palmas/institucional/institucional/"
+  },
+  {
+   "id": "gerencia-gestao-pessoas",
+   "nome": "Gerência de Gestão de Pessoas",
+   "tipo": "SETOR",
+   "categoria": "GESTAO_CAMPUS",
+   "sigla": "GGP",
+   "email": "ggp.palmas@ifto.edu.br",
+   "telefones": [
+    {
+     "numero": "(63) 3236-4007",
+     "tel": "+556332364007"
+    }
+   ],
+   "localizacao": "Bloco Administrativo 1",
+   "fonte_url": "https://www.ifto.edu.br/palmas/acesso-a-informacao-palmas/institucional/quem-e-quem"
+  },
+  {
+   "id": "gerencia-aquisicoes-contratos",
+   "nome": "Gerência de Aquisições e Contratos",
+   "tipo": "SETOR",
+   "categoria": "GESTAO_CAMPUS",
+   "sigla": "GAC",
+   "telefones": [
+    {
+     "numero": "(63) 3236-4023",
+     "tel": "+556332364023"
+    }
+   ],
+   "localizacao": "Bloco Administrativo 1",
+   "fonte_url": "https://www.ifto.edu.br/palmas/acesso-a-informacao-palmas/institucional/quem-e-quem"
+  },
+  {
+   "id": "gerencia-infraestrutura-servicos",
+   "nome": "Gerência de Infraestrutura e Serviços",
+   "tipo": "SETOR",
+   "categoria": "GESTAO_CAMPUS",
+   "sigla": "GISE",
+   "email": "gise.palmas@ifto.edu.br",
+   "telefones": [
+    {
+     "numero": "(63) 3236-4023",
+     "tel": "+556332364023"
+    }
+   ],
+   "localizacao": "Bloco Administrativo 1",
+   "fonte_url": "https://www.ifto.edu.br/palmas/acesso-a-informacao-palmas/institucional/quem-e-quem"
+  },
+  {
+   "id": "diretoria-assistencia-estudante",
+   "nome": "Diretoria de Assistência ao Estudante",
+   "tipo": "SETOR",
+   "categoria": "APOIO_ESTUDANTE",
+   "sigla": "DAE",
+   "email": "dae.palmas@ifto.edu.br",
+   "telefones": [
+    {
+     "numero": "(63) 3236-4019",
+     "tel": "+556332364019"
+    }
+   ],
+   "fonte_url": "https://ifto.edu.br/palmas/campus-palmas/assuntos-estudantis"
+  },
+  {
+   "id": "servico-social",
+   "nome": "Serviço Social",
+   "tipo": "SERVICO",
+   "categoria": "APOIO_ESTUDANTE",
+   "telefones": [
+    {
+     "numero": "(63) 3236-4045",
+     "tel": "+556332364045"
+    }
+   ],
+   "localizacao": "Bloco Administrativo 2",
+   "fonte_url": "https://ifto.edu.br/palmas/campus-palmas/assuntos-estudantis"
+  },
+  {
+   "id": "atendimento-medico",
+   "nome": "Atendimento Médico",
+   "tipo": "SERVICO",
+   "categoria": "APOIO_ESTUDANTE",
+   "telefones": [
+    {
+     "numero": "(63) 3236-4081",
+     "tel": "+556332364081"
+    }
+   ],
+   "localizacao": "Bloco Administrativo 2",
+   "fonte_url": "https://ifto.edu.br/palmas/campus-palmas/assuntos-estudantis"
+  },
+  {
+   "id": "psicologia",
+   "nome": "Psicologia",
+   "tipo": "SERVICO",
+   "categoria": "APOIO_ESTUDANTE",
+   "telefones": [
+    {
+     "numero": "(63) 3236-4046",
+     "tel": "+556332364046"
+    }
+   ],
+   "localizacao": "Bloco Administrativo 2",
+   "fonte_url": "https://ifto.edu.br/palmas/campus-palmas/assuntos-estudantis"
+  },
+  {
+   "id": "biblioteca",
+   "nome": "Biblioteca",
+   "tipo": "SETOR",
+   "categoria": "APOIO_ESTUDANTE",
+   "email": "biblioteca.palmas@ifto.edu.br",
+   "telefones": [
+    {
+     "numero": "(63) 3236-4050",
+     "tel": "+556332364050",
+     "rotulo": "atendimento"
+    },
+    {
+     "numero": "(63) 3236-4049",
+     "tel": "+556332364049",
+     "rotulo": "coordenação"
+    }
+   ],
+   "localizacao": "Bloco da Biblioteca",
+   "horario": {
+    "rotulo": "Horário de atendimento",
+    "texto": "Dias úteis, 8h às 20h; sujeito a alterações em férias/recesso"
+   },
+   "fonte_url": "https://www.ifto.edu.br/palmas/campus-palmas/ensino/biblioteca",
+   "assuntos": [
+    "nada consta"
+   ]
+  },
+  {
+   "id": "diretoria-extensao-pesquisa-pos-inovacao",
+   "nome": "Diretoria de Extensão, Pesquisa, Pós-graduação e Inovação",
+   "tipo": "SETOR",
+   "categoria": "PESQUISA_EXTENSAO",
+   "sigla": "DEPPI",
+   "telefones": [
+    {
+     "numero": "(63) 3236-4054",
+     "tel": "+556332364054"
+    }
+   ],
+   "localizacao": "Bloco Administrativo 1",
+   "fonte_url": "https://ifto.edu.br/palmas/campus-palmas/pesquisa"
+  },
+  {
+   "id": "coordenacao-pesquisa-pos-inovacao",
+   "nome": "Coordenação de Pesquisa, Pós-Graduação e Inovação",
+   "tipo": "SETOR",
+   "categoria": "PESQUISA_EXTENSAO",
+   "sigla": "CPPI",
+   "email": "cppi.palmas@ifto.edu.br",
+   "telefones": [
+    {
+     "numero": "(63) 3236-4053",
+     "tel": "+556332364053"
+    }
+   ],
+   "localizacao": "Bloco Administrativo 1",
+   "fonte_url": "https://ifto.edu.br/palmas/campus-palmas/pesquisa"
+  },
+  {
+   "id": "coordenacao-extensao-arte-cultura",
+   "nome": "Coordenação de Extensão, Arte e Cultura",
+   "tipo": "SETOR",
+   "categoria": "PESQUISA_EXTENSAO",
+   "sigla": "CEAC",
+   "email": "ceac.palmas@ifto.edu.br",
+   "telefones": [
+    {
+     "numero": "(63) 3236-4004",
+     "tel": "+556332364004"
+    }
+   ],
+   "localizacao": "Bloco Administrativo 1",
+   "fonte_url": "https://ifto.edu.br/palmas/campus-palmas/pesquisa"
+  },
+  {
+   "id": "coordenacao-desporto-lazer",
+   "nome": "Coordenação de Desporto e Lazer",
+   "tipo": "SETOR",
+   "categoria": "PESQUISA_EXTENSAO",
+   "sigla": "CDL",
+   "email": "cdl.palmas@ifto.edu.br",
+   "telefones": [
+    {
+     "numero": "(63) 3236-4067",
+     "tel": "+556332364067"
+    }
+   ],
+   "localizacao": "Ginásio",
+   "fonte_url": "https://ifto.edu.br/palmas/campus-palmas/pesquisa"
+  },
+  {
+   "id": "centro-idiomas",
+   "nome": "Centro de Idiomas",
+   "tipo": "SETOR",
+   "categoria": "PESQUISA_EXTENSAO",
+   "email": "centrodeidiomas.palmas@ifto.edu.br",
+   "localizacao": "Bloco 5",
+   "fonte_url": "https://ifto.edu.br/palmas/campus-palmas/pesquisa"
+  },
+  {
+   "id": "coord-curso-tecnico-em-administracao",
+   "nome": "Coordenação do curso Técnico em Administração",
+   "tipo": "COORDENACAO_CURSO",
+   "categoria": "COORDENACAO_CURSO",
+   "cursos": [
+    "tecnico-em-administracao-ensino-medio-integrado"
+   ],
+   "email": "administracao.palmas@ifto.edu.br",
+   "telefones": [
+    {
+     "numero": "(63) 3236-4030",
+     "tel": "+556332364030"
+    }
+   ],
+   "fonte_url": "https://ifto.edu.br/palmas/campus-palmas/cursos-palmas/tecnicos/integrado-regular/tecnico-em-administracao"
+  },
+  {
+   "id": "coord-curso-tecnico-em-agrimensura",
+   "nome": "Coordenação do curso Técnico em Agrimensura",
+   "tipo": "COORDENACAO_CURSO",
+   "categoria": "COORDENACAO_CURSO",
+   "cursos": [
+    "tecnico-em-agrimensura-ensino-medio-integrado",
+    "tecnico-em-agrimensura-tecnico-subsequente"
+   ],
+   "email": "agrimensura.palmas@ifto.edu.br",
+   "telefones": [
+    {
+     "numero": "(63) 3236-4039",
+     "tel": "+556332364039"
+    }
+   ],
+   "fonte_url": "https://www.ifto.edu.br/palmas/campus-palmas/cursos-palmas"
+  },
+  {
+   "id": "coord-curso-tecnico-em-agronegocio",
+   "nome": "Coordenação do curso Técnico em Agronegócio",
+   "tipo": "COORDENACAO_CURSO",
+   "categoria": "COORDENACAO_CURSO",
+   "cursos": [
+    "tecnico-em-agronegocio-ensino-medio-integrado"
+   ],
+   "email": "agronegocio.palmas@ifto.edu.br",
+   "fonte_url": "https://ifto.edu.br/palmas/campus-palmas/cursos-palmas/tecnicos/integrado-regular/tecnico-em-agronegocio"
+  },
+  {
+   "id": "coord-curso-tecnico-em-controle-ambiental",
+   "nome": "Coordenação do curso Técnico em Controle Ambiental",
+   "tipo": "COORDENACAO_CURSO",
+   "categoria": "COORDENACAO_CURSO",
+   "cursos": [
+    "tecnico-em-controle-ambiental-ensino-medio-integrado"
+   ],
+   "email": "controleambiental@ifto.edu.br",
+   "telefones": [
+    {
+     "numero": "(63) 3236-4030",
+     "tel": "+556332364030"
+    }
+   ],
+   "fonte_url": "https://www.ifto.edu.br/palmas/campus-palmas/cursos-palmas"
+  },
+  {
+   "id": "coord-curso-tecnico-em-edificacoes",
+   "nome": "Coordenação do curso Técnico em Edificações",
+   "tipo": "COORDENACAO_CURSO",
+   "categoria": "COORDENACAO_CURSO",
+   "cursos": [
+    "tecnico-em-edificacoes-ensino-medio-integrado"
+   ],
+   "email": "edificacoes.palmas@ifto.edu.br",
+   "telefones": [
+    {
+     "numero": "(63) 3236-4030",
+     "tel": "+556332364030"
+    }
+   ],
+   "fonte_url": "https://www.ifto.edu.br/palmas/campus-palmas/cursos-palmas"
+  },
+  {
+   "id": "coord-curso-tecnico-em-eletrotecnica",
+   "nome": "Coordenação do curso Técnico em Eletrotécnica",
+   "tipo": "COORDENACAO_CURSO",
+   "categoria": "COORDENACAO_CURSO",
+   "cursos": [
+    "tecnico-em-eletrotecnica-ensino-medio-integrado",
+    "tecnico-em-eletrotecnica-tecnico-subsequente"
+   ],
+   "email": "eletrotecnica.palmas@ifto.edu.br",
+   "fonte_url": "https://ifto.edu.br/palmas/campus-palmas/cursos-palmas/tecnicos/integrado-regular/tecnico-em-eletrotecnica"
+  },
+  {
+   "id": "coord-curso-tecnico-em-eventos",
+   "nome": "Coordenação do curso Técnico em Eventos",
+   "tipo": "COORDENACAO_CURSO",
+   "categoria": "COORDENACAO_CURSO",
+   "cursos": [
+    "tecnico-em-eventos-ensino-medio-integrado"
+   ],
+   "email": "cteve.palmas@ifto.edu.br",
+   "telefones": [
+    {
+     "numero": "(63) 3236-4028",
+     "tel": "+556332364028"
+    }
+   ],
+   "fonte_url": "https://www.ifto.edu.br/palmas/campus-palmas/cursos-palmas/tecnicos/integrado-regular/tecnico-em-eventos"
+  },
+  {
+   "id": "coord-curso-tecnico-em-informatica-para-internet",
+   "nome": "Coordenação do curso Técnico em Informática para Internet",
+   "tipo": "COORDENACAO_CURSO",
+   "categoria": "COORDENACAO_CURSO",
+   "cursos": [
+    "tecnico-em-informatica-para-internet-ensino-medio-integrado"
+   ],
+   "email": "coinf.palmas@ifto.edu.br",
+   "fonte_url": "https://www.ifto.edu.br/palmas/campus-palmas/cursos-palmas/tecnicos/integrado-regular/tecnico-em-informatica-para-internet"
+  },
+  {
+   "id": "coord-curso-tecnico-em-mecatronica",
+   "nome": "Coordenação do curso Técnico em Mecatrônica",
+   "tipo": "COORDENACAO_CURSO",
+   "categoria": "COORDENACAO_CURSO",
+   "cursos": [
+    "tecnico-em-mecatronica-ensino-medio-integrado"
+   ],
+   "email": "mecatronica.palmas@ifto.edu.br",
+   "telefones": [
+    {
+     "numero": "(63) 3236-4040",
+     "tel": "+556332364040"
+    }
+   ],
+   "fonte_url": "https://www.ifto.edu.br/palmas/campus-palmas/cursos-palmas"
+  },
+  {
+   "id": "coord-curso-tecnico-em-secretariado",
+   "nome": "Coordenação do curso Técnico em Secretariado",
+   "tipo": "COORDENACAO_CURSO",
+   "categoria": "COORDENACAO_CURSO",
+   "cursos": [
+    "tecnico-em-secretariado-tecnico-subsequente"
+   ],
+   "email": "secretariado.palmas@ifto.edu.br",
+   "fonte_url": "https://ifto.edu.br/palmas/campus-palmas/cursos-palmas/tecnicos/subsequente/tecnico-em-secretariado"
+  },
+  {
+   "id": "coord-curso-tecnico-em-seguranca-do-trabalho",
+   "nome": "Coordenação do curso Técnico em Segurança do Trabalho",
+   "tipo": "COORDENACAO_CURSO",
+   "categoria": "COORDENACAO_CURSO",
+   "cursos": [
+    "tecnico-em-seguranca-do-trabalho-tecnico-subsequente"
+   ],
+   "email": "segurancadotrabalho.palmas@ifto.edu.br",
+   "telefones": [
+    {
+     "numero": "(63) 3236-4029",
+     "tel": "+556332364029"
+    }
+   ],
+   "fonte_url": "https://www.ifto.edu.br/palmas/campus-palmas/cursos-palmas/tecnicos/subsequente/tecnico-em-seguranca-do-trabalho"
+  },
+  {
+   "id": "coord-curso-agronomia",
+   "nome": "Coordenação do curso Agronomia",
+   "tipo": "COORDENACAO_CURSO",
+   "categoria": "COORDENACAO_CURSO",
+   "cursos": [
+    "agronomia-graduacao"
+   ],
+   "email": "agronomia.palmas@ifto.edu.br",
+   "telefones": [
+    {
+     "numero": "(63) 3236-4068",
+     "tel": "+556332364068"
+    }
+   ],
+   "localizacao": "Bloco 11, Sala 176",
+   "fonte_url": "https://www.ifto.edu.br/palmas/campus-palmas/cursos-palmas/graduacao/bacharelado/agronomia/"
+  },
+  {
+   "id": "coord-curso-engenharia-civil",
+   "nome": "Coordenação do curso Engenharia Civil",
+   "tipo": "COORDENACAO_CURSO",
+   "categoria": "COORDENACAO_CURSO",
+   "cursos": [
+    "engenharia-civil-graduacao"
+   ],
+   "email": "engcivil.palmas@ifto.edu.br",
+   "telefones": [
+    {
+     "numero": "(63) 3236-4036",
+     "tel": "+556332364036"
+    }
+   ],
+   "localizacao": "Bloco 5",
+   "fonte_url": "https://www.ifto.edu.br/palmas/campus-palmas/cursos-palmas/graduacao/bacharelado/engenharia-civil"
+  },
+  {
+   "id": "coord-curso-engenharia-eletrica",
+   "nome": "Coordenação do curso Engenharia Elétrica",
+   "tipo": "COORDENACAO_CURSO",
+   "categoria": "COORDENACAO_CURSO",
+   "cursos": [
+    "engenharia-eletrica-graduacao"
+   ],
+   "email": "eng.eletrica.palmas@ifto.edu.br",
+   "telefones": [
+    {
+     "numero": "(63) 3236-4040",
+     "tel": "+556332364040"
+    }
+   ],
+   "localizacao": "Bloco 9",
+   "fonte_url": "https://www.ifto.edu.br/palmas/campus-palmas/cursos-palmas/graduacao/bacharelado/engenharia-eletrica/"
+  },
+  {
+   "id": "coord-curso-zootecnia",
+   "nome": "Coordenação do curso Zootecnia",
+   "tipo": "COORDENACAO_CURSO",
+   "categoria": "COORDENACAO_CURSO",
+   "cursos": [
+    "zootecnia-graduacao"
+   ],
+   "email": "zootecnia.palmas@ifto.edu.br",
+   "telefones": [
+    {
+     "numero": "(63) 3236-4068",
+     "tel": "+556332364068"
+    }
+   ],
+   "localizacao": "Bloco 11",
+   "fonte_url": "https://portal.ifto.edu.br/palmas/campus-palmas/cursos-palmas/graduacao/bacharelado/zootecnia"
+  },
+  {
+   "id": "coord-curso-licenciatura-em-educacao-fisica",
+   "nome": "Coordenação do curso Licenciatura em Educação Física",
+   "tipo": "COORDENACAO_CURSO",
+   "categoria": "COORDENACAO_CURSO",
+   "cursos": [
+    "licenciatura-em-educacao-fisica-graduacao"
+   ],
+   "email": "clef.palmas@ifto.edu.br",
+   "telefones": [
+    {
+     "numero": "(63) 3236-4087",
+     "tel": "+556332364087"
+    },
+    {
+     "numero": "(63) 3236-4067",
+     "tel": "+556332364067"
+    }
+   ],
+   "localizacao": "Ginásio",
+   "fonte_url": "https://www.ifto.edu.br/palmas/campus-palmas/cursos-palmas/graduacao/licenciatura/educacao-fisica"
+  },
+  {
+   "id": "coord-curso-licenciatura-em-fisica",
+   "nome": "Coordenação do curso Licenciatura em Física",
+   "tipo": "COORDENACAO_CURSO",
+   "categoria": "COORDENACAO_CURSO",
+   "cursos": [
+    "licenciatura-em-fisica-graduacao"
+   ],
+   "email": "fisica.palmas@ifto.edu.br",
+   "telefones": [
+    {
+     "numero": "(63) 3236-4083",
+     "tel": "+556332364083"
+    }
+   ],
+   "localizacao": "Bloco 7",
+   "fonte_url": "https://www.ifto.edu.br/palmas/campus-palmas/cursos-palmas/graduacao/licenciatura/fisica"
+  },
+  {
+   "id": "coord-curso-licenciatura-em-letras-lingua-portuguesa",
+   "nome": "Coordenação do curso Licenciatura em Letras - Língua Portuguesa",
+   "tipo": "COORDENACAO_CURSO",
+   "categoria": "COORDENACAO_CURSO",
+   "cursos": [
+    "licenciatura-em-letras-lingua-portuguesa-graduacao"
+   ],
+   "email": "letras.palmas@ifto.edu.br",
+   "telefones": [
+    {
+     "numero": "(63) 3236-4021",
+     "tel": "+556332364021"
+    },
+    {
+     "numero": "(63) 3236-4033",
+     "tel": "+556332364033"
+    }
+   ],
+   "localizacao": "Bloco 5",
+   "fonte_url": "https://www.ifto.edu.br/palmas/campus-palmas/cursos-palmas/graduacao/licenciatura/letras-lingua-portuguesa/sobre-o-curso"
+  },
+  {
+   "id": "coord-curso-licenciatura-em-matematica",
+   "nome": "Coordenação do curso Licenciatura em Matemática",
+   "tipo": "COORDENACAO_CURSO",
+   "categoria": "COORDENACAO_CURSO",
+   "cursos": [
+    "licenciatura-em-matematica-graduacao"
+   ],
+   "email": "matematica.palmas@ifto.edu.br",
+   "telefones": [
+    {
+     "numero": "(63) 3236-4085",
+     "tel": "+556332364085"
+    }
+   ],
+   "localizacao": "Bloco 7",
+   "fonte_url": "https://www.ifto.edu.br/palmas/campus-palmas/cursos-palmas/graduacao/licenciatura/matematica"
+  },
+  {
+   "id": "coord-curso-gestao-publica",
+   "nome": "Coordenação do curso Gestão Pública",
+   "tipo": "COORDENACAO_CURSO",
+   "categoria": "COORDENACAO_CURSO",
+   "cursos": [
+    "gestao-publica-graduacao"
+   ],
+   "email": "cgestao@ifto.edu.br",
+   "telefones": [
+    {
+     "numero": "(63) 3236-4062",
+     "tel": "+556332364062"
+    }
+   ],
+   "localizacao": "Bloco 7",
+   "fonte_url": "https://ifto.edu.br/palmas/campus-palmas/cursos-palmas/graduacao/tecnologico/gestao-publica"
+  },
+  {
+   "id": "coord-curso-sistemas-para-internet",
+   "nome": "Coordenação do curso Sistemas para Internet",
+   "tipo": "COORDENACAO_CURSO",
+   "categoria": "COORDENACAO_CURSO",
+   "cursos": [
+    "sistemas-para-internet-graduacao"
+   ],
+   "email": "csint.palmas@ifto.edu.br",
+   "telefones": [
+    {
+     "numero": "(63) 3236-4037",
+     "tel": "+556332364037"
+    }
+   ],
+   "localizacao": "Bloco 4",
+   "fonte_url": "https://www.ifto.edu.br/palmas/campus-palmas/cursos-palmas/graduacao/tecnologico/sistemas-para-internet"
+  },
+  {
+   "id": "coord-curso-tecnologia-ambiental",
+   "nome": "Coordenação do curso Tecnologia Ambiental",
+   "tipo": "COORDENACAO_CURSO",
+   "categoria": "COORDENACAO_CURSO",
+   "cursos": [
+    "tecnologia-ambiental-pos-graduacao"
+   ],
+   "telefones": [
+    {
+     "numero": "(63) 3236-4072",
+     "tel": "+556332364072"
+    },
+    {
+     "numero": "(63) 3236-4038",
+     "tel": "+556332364038"
+    }
+   ],
+   "fonte_url": "https://portal.ifto.edu.br/palmas/campus-palmas/cursos-palmas/pos-graduacao/especializacao/tecnologia-ambiental"
+  },
+  {
+   "id": "coord-curso-profissional-em-educacao-profissional-e-tecnologica",
+   "nome": "Coordenação do curso Profissional em Educação Profissional e Tecnológica",
+   "tipo": "COORDENACAO_CURSO",
+   "categoria": "COORDENACAO_CURSO",
+   "cursos": [
+    "profissional-em-educacao-profissional-e-tecnologica-pos-graduacao"
+   ],
+   "email": "profeptifto@ifto.edu.br",
+   "localizacao": "Campus Palmas",
+   "fonte_url": "https://ifto.edu.br/profept/sobre-o-curso"
+  },
+  {
+   "id": "coord-curso-engenharia-civil-e-ambiental",
+   "nome": "Coordenação do curso Engenharia Civil e Ambiental",
+   "tipo": "COORDENACAO_CURSO",
+   "categoria": "COORDENACAO_CURSO",
+   "cursos": [
+    "engenharia-civil-e-ambiental-pos-graduacao"
+   ],
+   "email": "ppgeca@ifto.edu.br",
+   "fonte_url": "https://www.ifto.edu.br/palmas/campus-palmas/cursos-palmas/pos-graduacao/mestrado/mestrado-profissional-em-engenharia-civil-e-ambiental"
+  }
+ ],
+ "hash": "297d799fda1ab3ab3b3edf5607d3d0fcc29b094b207ff414344c74ff102e1975"
+}
