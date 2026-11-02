@@ -1,6 +1,6 @@
 {
  "versao": "diretorio.v1",
- "gerado_em": "2026-11-01T15:33:58.675Z",
+ "gerado_em": "2026-11-02T14:03:36.359Z",
  "origem": "Planilha oficial de contatos — GEAE Campus Palmas",
  "aviso": "Contatos reunidos a partir de fontes institucionais publicadas. Podem sofrer alterações.",
  "categorias": {
@@ -850,7 +850,55 @@
    ],
    "email": "ppgeca@ifto.edu.br",
    "fonte_url": "https://www.ifto.edu.br/palmas/campus-palmas/cursos-palmas/pos-graduacao/mestrado/mestrado-profissional-em-engenharia-civil-e-ambiental"
+  },
+  {
+   "id": "coordenacao-assistencia-estudante",
+   "nome": "Coordenação de Assistência ao Estudante",
+   "tipo": "SETOR",
+   "categoria": "APOIO_ESTUDANTE",
+   "sigla": "CAEST",
+   "email": "caest.palmas@ifto.edu.br",
+   "telefones": [
+    {
+     "numero": "(63) 3236-4043",
+     "tel": "+556332364043"
+    }
+   ],
+   "localizacao": "Bloco Administrativo 2",
+   "fonte_texto": "Dados informados pela GEAE (novembro de 2026)"
+  },
+  {
+   "id": "nucleo-atendimento-necessidades-especificas",
+   "nome": "Núcleo de Atendimento às Pessoas com Necessidades Específicas",
+   "tipo": "SETOR",
+   "categoria": "APOIO_ESTUDANTE",
+   "sigla": "NAPNE",
+   "email": "napne.palmas@ifto.edu.br",
+   "telefones": [
+    {
+     "numero": "(63) 3236-4055",
+     "tel": "+556332364055"
+    }
+   ],
+   "localizacao": "Bloco 15",
+   "fonte_texto": "Dados informados pela GEAE (novembro de 2026)"
+  },
+  {
+   "id": "coordenacao-apoio-ensino-profissional-integrado",
+   "nome": "Coordenação de Apoio ao Ensino Profissional Integrado",
+   "tipo": "SETOR",
+   "categoria": "ENSINO",
+   "sigla": "CAEPI",
+   "email": "caeb.palmas@ifto.edu.br",
+   "telefones": [
+    {
+     "numero": "(63) 3236-4030",
+     "tel": "+556332364030"
+    }
+   ],
+   "localizacao": "Bloco 15",
+   "fonte_texto": "Dados informados pela GEAE (novembro de 2026)"
   }
  ],
- "hash": "297d799fda1ab3ab3b3edf5607d3d0fcc29b094b207ff414344c74ff102e1975"
+ "hash": "f6a02b90aac1e52ecafe8afe6f3bb67b3838ccab8b3595d2e6d59737f6b1430d"
 }
